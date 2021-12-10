@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Digital\\RiderProjects\\Catalog\\Catalog.csproj": {}
+    "C:\\Users\\Digital\\RiderProjects\\rest_API\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Digital\\RiderProjects\\Catalog\\Catalog.csproj": {
+    "C:\\Users\\Digital\\RiderProjects\\rest_API\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Digital\\RiderProjects\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\Digital\\RiderProjects\\rest_API\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Users\\Digital\\RiderProjects\\Catalog\\Catalog.csproj",
+        "projectPath": "C:\\Users\\Digital\\RiderProjects\\rest_API\\Catalog.csproj",
         "packagesPath": "C:\\Users\\Digital\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Digital\\RiderProjects\\Catalog\\obj\\",
+        "outputPath": "C:\\Users\\Digital\\RiderProjects\\rest_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Digital\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wVgaWKObnLDt2Mz6vYLO5bL5/Q7l6Z4NX51bjabGZsAhVtiHPkLeRitcpN8GJtiGkFu+U97MsDUUMEp0QXsyRA==",
+  "dgSpecHash": "oa73y9VgqIK4W+qLVRmWSbr3ghDK9Ta43nR2r58tyKCJQxcEF1WMfaHokr+roAWcFputHKqgwpkImzO6vmiyxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Digital\\RiderProjects\\Catalog\\Catalog.csproj",
+  "projectFilePath": "C:\\Users\\Digital\\RiderProjects\\rest_API\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Digital\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\5.0.1\\aspnetcore.healthchecks.mongodb.5.0.1.nupkg.sha512",
     "C:\\Users\\Digital\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
